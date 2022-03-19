@@ -85,13 +85,7 @@ marks.md
 
 # Academy Performance
 
-## My marks-
 
-| test | Maths | C language |
-| ------- |:-------:| -----:|
-| Test 1 | 10 | 8 |
-| Mid Sem | 20 | 20 |
-| End Sem | 65 | 69 |
 
 ## Certificates
 
