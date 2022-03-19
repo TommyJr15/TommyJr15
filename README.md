@@ -15,23 +15,20 @@ skills.md
 # Skills
 
 ## My coding skills
-1. Competitive programming
-1. C language
-1. C++ language
-1. Python
-1. Markdown
+1. Light Python 3
+2. Light HTML
+3. Light Javascript
 
 ## Soft skills
 1. Leadership
-1. Responsibility
+2. Responsibility
+3. Independent
+4. Trustworthy
 
 [Go back to home page](./README.md)
 
 code_sample.md
 
-# Code Sample
-
-Some of code sample written by me
 
 ### HTML
 ```html
@@ -78,8 +75,9 @@ hobby.md
 
 I _like_ to visit these sites as hobby-
 
-* [Reddit](https://www.reddit.com)
-* [Twitter](https://www.twitter.com)
+* [Instagram](https://www.instagram.com)
+* [Reddit](https://www.Reddit.com)
+* [Youtube](https://www.Youtube.com)
 
 [return to home](./README.md)
 
@@ -87,18 +85,5 @@ marks.md
 
 # Academy Performance
 
-## My marks-
 
-| test | Maths | C language |
-| ------- |:-------:| -----:|
-| Test 1 | 10 | 8 |
-| Mid Sem | 20 | 20 |
-| End Sem | 65 | 69 |
 
-## Certificates
-
-![Certificate 1](https://github.com/username/image.png)
-
-![Certificate 2](https://www.creativecertificates.com/wp-content/uploads/2014/03/certificate-of-excellence.jpg)
-
-[return to home](./README.md)
