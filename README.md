@@ -1,7 +1,7 @@
 #Home Page
 ## Welcome to my Page, I am Tommy Chuta
 
-I am a student at Mizzzou studying Information Technology and I enjoy creating and coding websites on my free time.
+I am a student at Mizzzou studying Information Technology and I enjoy creating and coding websites on my free time. I am a current transfer student from Crowder College in Neosho, Mo where I changed my major from civil engineering to I.T because I found a passion working with digital Media and using softwares that create webpages and sites with the magic of coding and I really found myself happy with my decision. Hobbies of mine are playing soccer on the weekends as well as intrumural soccer here at Mizzou, I also enjoy making digital media in any form such as creating audio for vidoes and currently working on digital art on photoshop as well. I currently have a online side business on ebay where I resale items and like to share media to my followers on social media platforms.
 
 Navigate my website using these links
 
