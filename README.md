@@ -87,11 +87,6 @@ marks.md
 
 
 
-## Certificates
+## SVG Image
 
-![Certificate 1](https://github.com/username/image.png)
-
-![Certificate 2](https://www.creativecertificates.com/wp-content/uploads/2014/03/certificate-of-excellence.jpg)
-
-[return to home](./README.md)
-
+![This is an image](file:///C:/Users/tommy/OneDrive/Desktop/Intro%20to%20Design%20and%20Animation/TommyChuta4/SVG/Asset%202.svg)
