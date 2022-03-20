@@ -8,7 +8,7 @@ Navigate my website using these links
 * [Skills](./skills.md)
 * [Code Sample](./code_sample.md)
 * [Hobbies](./hobby.md)
-* [Academy Performance](./marks.md)
+* [SVG Example](./Creation.md)
 
 skills.md
 
@@ -83,7 +83,7 @@ I _like_ to visit these sites as hobby-
 
 marks.md
 
-# Academy Performance
+# SVG Images
 
 
 
