@@ -18,7 +18,7 @@ Your new image will download as an SVG file. Save it, share it, or keep editing 
 
 This is the most convienient way to create an existing JPEG image and create a SVG iamge for better resolution when working on softwares like Adobe illistrator or photoshop.
 
-
+Check out my converted image below!
 
 # SVG Images
 
