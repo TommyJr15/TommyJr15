@@ -3,8 +3,7 @@
 Tommy Chuta
 
 
-Hello This tutorial is about how to create a svg image and how to save an image to you files.
-Navigate my website using these links
+Hello This tutorial is about how to create a svg image with an existing image and how to save an image to you files.
 
 
 
